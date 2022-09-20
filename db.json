@@ -1,19 +1,22 @@
 {
-  "posts": [
+  "tasks": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "text": "drhdrh",
+      "day": "rdhdrh",
+      "reminder": true,
+      "id": 10
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "text": "eerer",
+      "day": "ree",
+      "reminder": true,
+      "id": 12
+    },
+    {
+      "text": "seresr",
+      "day": "serser",
+      "reminder": true,
+      "id": 13
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
